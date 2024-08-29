@@ -1,0 +1,96 @@
+.item{
+    width: Fill (854px)px;
+    height: Hug (66px)px;
+    padding: 21px 29px 21px 29px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    border: 2px 0px 0px 0px;
+    justify : space-between;
+    opacity: 0px;
+    
+    
+}
+.container1{
+    width: 661px;
+height: 59px;
+top: 107px;
+left: 390px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+#a1{
+    font-family: Garnett Semibold;
+font-size: 42px;
+font-style: italic;
+font-weight: 600;
+line-height: 58.51px;
+text-align: center;
+color: #5C27C0; ;
+}
+span{
+    font-family: Garnett Regular;
+font-size: 42px;
+font-style: italic;
+font-weight: 400;
+line-height: 58.51px;
+text-align: center;
+}
+#a2{
+    
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+text-align: center;
+color:  #1C1C1C;
+;
+}
+
+.container2{
+    width: Hug (854px)px;
+    height: Hug (713px)px;
+    top: 306px;
+    left: 293px;
+    gap: 16px;
+    opacity: 0px;
+    
+    
+
+}
+.item{
+    width: Hug (854px)px;
+    height: Hug (713px)px;
+    top: 306px;
+    left: 293px;
+    gap: 16px;
+    opacity: 0px;
+    border:  2px solid #5C27C0;
+    
+}
+#a3{
+    width: 854px;
+height: 139px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+
+}
+#a4{
+    color: azure;
+    border: 2px solid #5C27C0
+}
+.container{
+    width: 1440px;
+height: 1177px;
+top: 6845px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
+
+
